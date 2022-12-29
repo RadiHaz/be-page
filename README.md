@@ -1,6 +1,4 @@
-# BePage
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+# Angular SPA + Simulated REST API with json-server
 
 ## Running:
 
