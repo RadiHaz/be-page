@@ -1,0 +1,19 @@
+.navbar {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: var(--primary);
+
+  & a {
+    text-decoration: none;
+    color: white;
+
+    &:hover {
+      color: green;
+    }
+
+    &.active {
+      color: black;
+    }
+  }
+}

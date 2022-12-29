@@ -1,0 +1,7 @@
+.table {
+  padding: 5%;
+  & tr {
+    background-color: yellow;
+    border: 2px solid blueviolet;
+  }
+}
