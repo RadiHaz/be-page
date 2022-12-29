@@ -1,4 +1,4 @@
-# Angular SPA + Simulated REST API with json-server
+# Angular SPA + Simulated REST API with json server
 
 ## Running:
 
